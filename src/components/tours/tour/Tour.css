@@ -1,0 +1,37 @@
+.tour-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px;
+    background-color: #fff;
+    padding: 20px;
+}
+
+.container-card {
+    width: 400px;
+    height: 240px;
+    background: #eee;
+    text-align: center;
+    border-radius: 8px 8px 0 0;
+    padding: 20px 0 0 0;
+    border: 1px solid #ddd;
+}
+
+.tour-image {
+    width: 100%;
+    height: 100%;
+}
+
+.tour-separator {
+    width: 100%;
+    height: 1px;
+    background-color: #ccc;
+    margin-top: 30px;
+}
+
+.tour-name {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+    margin-top: 10px;
+}
